@@ -6,7 +6,7 @@ Open-source data engineering tools built with Python.
 
 | Project | Description | Install |
 |---|---|---|
-| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline — fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database | `pip install pipewell-jira-ingest` |
+| [jira-ingest](https://github.com/pipewell/jira-ingest) | Async Jira Cloud pipeline: fetches projects, boards, issues and transitions into any SQLAlchemy-compatible database | `pip install pipewell-jira-ingest` |
 | [confluence-publisher](https://github.com/pipewell/confluence-publisher) | GitHub Action that publishes Markdown docs from your repo to Confluence Cloud or Data Center | [Marketplace](#) |
 
 ## Design principles
